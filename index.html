@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starexx (Item ID)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="search-bar">
+        <input type="text" id="search" placeholder="Type Anything...">
+        <button onclick="searchData()">Search</button>
+    </div>
+</header>
+
+<div class="file-manager" id="results"></div>
+
+<div class="popup" id="popup">
+    <div class="popup-header">
+        <span id="popupTitle"></span>
+        <button onclick="closePopup()">╳</button>
+    </div>
+    <p>Item ID: <span id="itemID"></span></p>
+    <p>Icon Name: <span id="iconName"></span></p>
+    <p>Text ID: <span id="textID"></span></p>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
