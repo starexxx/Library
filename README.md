@@ -1,8 +1,7 @@
 <h1 align="center">Craftland Library</h1>
 <h3 align="center">Craftland Item Library: Icon Name, Item ID, Text ID</h3>
 
-> Description
-Welcome to Craftland Item Library! our vast library offers an extensive collection of
+> Welcome to Craftland Item Library! our vast library offers an extensive collection of
 - Item Name
 - Icon Name
 - Item ID
