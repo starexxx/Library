@@ -1,4 +1,4 @@
-<h1 align="center">Project: Item ID</h1>
+<h1 align="center">Craftland Library</h1>
 <h3 align="center">Craftland Item Library: Icon Name, Item ID, Text ID</h3>
 
 > Description
