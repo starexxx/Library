@@ -6,7 +6,7 @@
 - Icon Name
 - Item ID
 - Text ID
-> Preview. [Open](https://starexxx.github.io/Library)
+> See [Preview](https://starexxx.github.io/Library)
 <p align="left">
 </p>
 
